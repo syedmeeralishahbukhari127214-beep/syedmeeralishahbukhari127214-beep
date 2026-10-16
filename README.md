@@ -35,10 +35,7 @@
 
 **Backend & Enterprise**
 
-<img src="https://skillicons.dev/icons?i=python,nodejs,fastapi&theme=dark" alt="Backend stack" />
-&nbsp;
-![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=frappe&logoColor=white)
-![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=erpnext&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,nodejs,fastapi&theme=dark" alt="Backend stack" height="48" /><img src="frappe.svg" alt="Frappe" height="48" /><img src="erpnext.svg" alt="ERPNext" height="48" />
 
 **Databases & DevOps**
 
