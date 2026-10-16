@@ -4,21 +4,72 @@
 ### Full-Stack, Mobile App & ERPNext / Frappe Developer
 
 <p align="center">
-  <a href="https://github.com/syedmeeralishahbukhari127214-beep">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Web+%26+Mobile+Developer;Frappe+%26+ERPNext+Specialist;Custom+LMS+%26+CRM+Architect;API+Integrations+%26+System+Automation" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Full-Stack+Web+%26+Mobile+Developer;Frappe+%26+ERPNext+Specialist;Custom+LMS+%26+CRM+Architect;API+Integrations+%26+System+Automation" alt="Typing SVG" />
 </p>
-
----
 
 </div>
 
+---
+
 ## 🚀 About Me
 
-- 💻 **Specialty:** Building scalable full-stack web/mobile apps & enterprise ERPNext/Frappe solutions.
-- 🛠️ **Core Tech Stack:** Next.js, React, Node.js, Python, TypeScript, Tailwind CSS, Docker & PostgreSQL.
+- 💻 **Specialty:** Scalable full-stack web/mobile apps & enterprise ERPNext/Frappe solutions.
+- 🛠️ **Core Stack:** Next.js, React, Node.js, Python, TypeScript, Tailwind CSS, Docker & PostgreSQL.
 - 🔌 **Integrations:** Biometric hardware listeners, custom REST APIs, automated CRM & LMS workflows.
-- 🎯 **Goals:** Delivering clean, maintainable, high-performance code for global clients.
+- 🎯 **Goal:** Clean, maintainable, high-performance code for global clients.
+
+---
+
+## 🌐 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 <a href="https://www.ict.edu.pk">ICT Pakistan</a></h3>
+      <b>Institute of Corporate & Taxation</b><br/>
+      Taxation education platform with course catalog, blogs, certificate verification, lead forms and LMS. Campuses in Islamabad, Lahore & Karachi.<br/><br/>
+      <code>Next.js</code> <code>Sanity CMS</code> <code>LMS</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🇬🇧 <a href="https://www.ictbusinessacademy.uk">ICT Business Academy (UK)</a></h3>
+      <b>Accounting, Tax & AI Courses</b><br/>
+      UK-registered academy website with 15+ course pages, enrollment flow, enquiry forms, cart and blog.<br/><br/>
+      <code>Next.js</code> <code>Tailwind CSS</code> <code>SEO</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏫 <a href="https://www.ictbusinessschool.com/">ICT Business School</a></h3>
+      <b>Business Education Platform</b><br/>
+      <!-- Yahan apna kaam 1-2 line mein likho -->
+      Business school website with course listings and admissions workflow.<br/><br/>
+      <code>Next.js</code> <code>Tailwind CSS</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 <a href="https://www.ictcambridgeschool.com/">ICT Cambridge School</a></h3>
+      <b>Education Website</b><br/>
+      <!-- Yahan apna kaam 1-2 line mein likho -->
+      Institute website with programs, admissions and lead capture.<br/><br/>
+      <code>Next.js</code> <code>Tailwind CSS</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💼 <a href="https://trusinvatechsolutions.com/">Trusinva Tech Solutions</a></h3>
+      <b>IT & Software Solutions</b><br/>
+      <!-- Yahan apna kaam 1-2 line mein likho -->
+      Company website showcasing software and technology services.<br/><br/>
+      <code>React</code> <code>Node.js</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://bacoconsultants.com/">Baco Consultants</a></h3>
+      <b>Consultancy Website</b><br/>
+      <!-- Yahan apna kaam 1-2 line mein likho -->
+      Corporate consultancy website with services and client enquiry forms.<br/><br/>
+      <code>Next.js</code> <code>Tailwind CSS</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -53,14 +104,10 @@
 
 ## ⚡ GitHub Stats & Activity
 
-<div align="center">
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=syedmeeralishahbukhari127214-beep&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedmeeralishahbukhari127214-beep&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
-</div>
 
 ---
 
